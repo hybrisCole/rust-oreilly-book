@@ -1,0 +1,10 @@
+[package]
+name = "hello"
+version = "0.1.0"
+authors = ["Alberto Cole <acpii2005@gmail.com>"]
+
+[dependencies]
+iron = "0.4.0"
+mime = "0.2.1"
+router = "0.2.0"
+urlencoded = "0.4.0"
