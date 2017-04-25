@@ -1,0 +1,6 @@
+[package]
+name = "references"
+version = "0.1.0"
+authors = ["Alberto Cole <acpii2005@gmail.com>"]
+
+[dependencies]
